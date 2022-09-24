@@ -49,6 +49,9 @@ My name is Olajide and I"m a Software Engineer and Technical Writer
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)&nbsp; 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br />
+![Terraform](https://img.shields.io/badge/terraform-%230db7ed.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%230db7ed.svg?style=for-the-badge&logo=bash&logoColor=white)
 
 ### 🛠 &nbsp;Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
