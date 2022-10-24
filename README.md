@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 👋 My name is Olajide and I"m a Software Engineer and Technical Writer
 - 👀 I’m interested in Devops engineering and cloud computing
-- 🌱 I’m currently learning AWS and Python
+- 🌱 I’m currently learning Kubernetes and Microservices architecture
 
 ### 🛠 &nbsp;Tech Stack
 
