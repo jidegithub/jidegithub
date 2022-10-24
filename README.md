@@ -50,12 +50,14 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br />
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=Python)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)&nbsp; 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br />
-![Terraform](https://img.shields.io/badge/terraform-%230db7ed.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%230db7ed.svg?style=for-the-badge&logo=bash&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-%230db7ed.svg?style=for-the-badge&logo=Bash&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🛠 &nbsp;Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
