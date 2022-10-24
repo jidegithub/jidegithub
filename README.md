@@ -26,9 +26,14 @@ Here are some ideas to get you started:
   <img  align="left" alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/-olutolajide@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olutolajide@gmail.com)](mailto:olutolajide@gmail.com)
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jidegithub)
 
-My name is Olajide and I"m a Software Engineer and Technical Writer 
+- 👋 My name is Olajide and I"m a Software Engineer and Technical Writer
+- 👀 I’m interested in Devops engineering and cloud computing
+- 🌱 I’m currently learning AWS and Python
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,7 +52,6 @@ My name is Olajide and I"m a Software Engineer and Technical Writer
 <br />
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)&nbsp; 
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br />
 ![Terraform](https://img.shields.io/badge/terraform-%230db7ed.svg?style=for-the-badge&logo=terraform&logoColor=white)
