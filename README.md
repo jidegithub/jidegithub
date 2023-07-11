@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jidegithub)
 
-- 👋 My name is Olajide and I"m a Software Engineer and Technical Writer
+- 👋 My name is Olajide and I"m a Cloud and Software Engineer
 - 👀 I’m interested in Devops engineering and cloud computing
-- 🌱 I’m currently learning Kubernetes and Microservices architecture
+- 🌱 I’m currently learning Distributed systems and Microservices architecture
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
