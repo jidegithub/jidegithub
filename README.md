@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/michael-olajide-olutola-4836a0ab/">
-  <img align="left" alt="jide's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.shields.io/badge/LinkedIn-2962FF?style=for-the-badge&logo=hashnode&logoColor=white%22)" />
+  <img  align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-2962FF?style=for-the-badge&logo=linkedin&logoColor=white%22"/>
 </a>
 <a href="https://twitter.com/jidesnr">
-  <img align="left" alt="jide | Twitter" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg](https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=hashnode&logoColor=white%22)" />
+  <img  align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=twitter&logoColor=blue%22"/>
 </a>
 <a href="https://jideolutola.hashnode.dev/">
   <img  align="left" alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
