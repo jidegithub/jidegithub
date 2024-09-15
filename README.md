@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=jidegithub)
 
 - 👋 My name is Olajide and I"m a Cloud and Software Engineer
-- 👀 I’m interested in Devops engineering and cloud computing
+- 👀 I’m interested in cloud computing and Blockchain
 - 🌱 I’m currently learning Distributed systems and Microservices architecture
 
 ### 🛠 &nbsp;Tech Stack
