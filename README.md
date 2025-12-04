@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img  align="left" alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
-[![Gmail Badge](https://img.shields.io/badge/-olutolajide@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olutolajide@gmail.com)](mailto:olutolajide@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-olutolajide@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olutolajide@gmail.com)](mailto:olutolajide@gmail.com)-->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jidegithub)
